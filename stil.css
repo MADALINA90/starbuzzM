@@ -1,8 +1,14 @@
 body {
-  background-color: tan;
+  background-color: #F2B3F1;
   font-family: fantasy;
   margin-left: 10%;
 }
 h2{
-  color: brown;
+  color: #1B2B5A;
+}
+p{
+  color: #60205F;
+}
+.denumire {
+  color:#918691;
 }
